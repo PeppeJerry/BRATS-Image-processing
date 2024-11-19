@@ -1,0 +1,250 @@
+Riassunto del report ['report_1731701386.json'].
+
+Trasformazione ['Inv']
+
+Dice AVG ['0.46854']
+Dice MAX ['0.85567']
+Dice MIN ['0']
+Dice STD ['0.26516']
+
+NSD AVG ['0.32795']
+NSD MAX ['0.70189']
+NSD MIN ['0']
+NSD STD ['0.22006']
+
+
+Trasformazione ['HF']
+
+Dice AVG ['0.54402']
+Dice MAX ['0.80215']
+Dice MIN ['0.039806']
+Dice STD ['0.20144']
+
+NSD AVG ['0.44964']
+NSD MAX ['0.78276']
+NSD MIN ['0.025579']
+NSD STD ['0.20875']
+
+
+Trasformazione ['Log']
+
+Dice AVG ['0.56106']
+Dice MAX ['0.84842']
+Dice MIN ['0.20446']
+Dice STD ['0.20428']
+
+NSD AVG ['0.44184']
+NSD MAX ['0.8219']
+NSD MIN ['0.09588']
+NSD STD ['0.2218']
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Segmentazione ['KMeans']
+
+Dice AVG ['0.55901']
+Dice MAX ['0.85163']
+Dice MIN ['0.1017']
+Dice STD ['0.2149']
+
+NSD AVG ['0.45806']
+NSD MAX ['0.81542']
+NSD MIN ['0.049107']
+NSD STD ['0.22429']
+
+
+Segmentazione ['Otsu']
+
+Dice AVG ['0.5969']
+Dice MAX ['0.85567']
+Dice MIN ['0.22077']
+Dice STD ['0.17348']
+
+NSD AVG ['0.49999']
+NSD MAX ['0.8219']
+NSD MIN ['0.10244']
+NSD STD ['0.19011']
+
+
+Segmentazione ['GMM']
+
+Dice AVG ['0.41771']
+Dice MAX ['0.81899']
+Dice MIN ['0']
+Dice STD ['0.25081']
+
+NSD AVG ['0.26138']
+NSD MAX ['0.60971']
+NSD MIN ['0']
+NSD STD ['0.17542']
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Coppia Transformazione-Segmentazione ['Inv_KMeans']
+
+Dice AVG ['0.47453']
+Dice MAX ['0.85163']
+Dice MIN ['0.1017']
+Dice STD ['0.25553']
+
+NSD AVG ['0.34435']
+NSD MAX ['0.68269']
+NSD MIN ['0.049107']
+NSD STD ['0.23308']
+
+
+Coppia Transformazione-Segmentazione ['Inv_Otsu']
+
+Dice AVG ['0.56817']
+Dice MAX ['0.85567']
+Dice MIN ['0.22077']
+Dice STD ['0.19469']
+
+NSD AVG ['0.41497']
+NSD MAX ['0.70189']
+NSD MIN ['0.10244']
+NSD STD ['0.19438']
+
+
+Coppia Transformazione-Segmentazione ['Inv_GMM']
+
+Dice AVG ['0.36293']
+Dice MAX ['0.78246']
+Dice MIN ['0']
+Dice STD ['0.31605']
+
+NSD AVG ['0.22454']
+NSD MAX ['0.56447']
+NSD MIN ['0']
+NSD STD ['0.20817']
+
+
+Coppia Transformazione-Segmentazione ['HF_KMeans']
+
+Dice AVG ['0.61076']
+Dice MAX ['0.80215']
+Dice MIN ['0.39271']
+Dice STD ['0.15551']
+
+NSD AVG ['0.53826']
+NSD MAX ['0.78276']
+NSD MIN ['0.23233']
+NSD STD ['0.16977']
+
+
+Coppia Transformazione-Segmentazione ['HF_Otsu']
+
+Dice AVG ['0.60609']
+Dice MAX ['0.80037']
+Dice MIN ['0.3935']
+Dice STD ['0.15644']
+
+NSD AVG ['0.54576']
+NSD MAX ['0.77128']
+NSD MIN ['0.22609']
+NSD STD ['0.1601']
+
+
+Coppia Transformazione-Segmentazione ['HF_GMM']
+
+Dice AVG ['0.4152']
+Dice MAX ['0.78546']
+Dice MIN ['0.039806']
+Dice STD ['0.2333']
+
+NSD AVG ['0.26489']
+NSD MAX ['0.60734']
+NSD MIN ['0.025579']
+NSD STD ['0.17041']
+
+
+Coppia Transformazione-Segmentazione ['Log_KMeans']
+
+Dice AVG ['0.59174']
+Dice MAX ['0.84842']
+Dice MIN ['0.28']
+Dice STD ['0.21732']
+
+NSD AVG ['0.49157']
+NSD MAX ['0.81542']
+NSD MIN ['0.13969']
+NSD STD ['0.23703']
+
+
+Coppia Transformazione-Segmentazione ['Log_Otsu']
+
+Dice AVG ['0.61644']
+Dice MAX ['0.84047']
+Dice MIN ['0.34007']
+Dice STD ['0.18211']
+
+NSD AVG ['0.53926']
+NSD MAX ['0.8219']
+NSD MIN ['0.15328']
+NSD STD ['0.20239']
+
+
+Coppia Transformazione-Segmentazione ['Log_GMM']
+
+Dice AVG ['0.475']
+Dice MAX ['0.81899']
+Dice MIN ['0.20446']
+Dice STD ['0.20344']
+
+NSD AVG ['0.2947']
+NSD MAX ['0.60971']
+NSD MIN ['0.09588']
+NSD STD ['0.155']
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Migliori prestazioni per campione ['139']
+
+Dice: 0.41505 | Transformazione: Log | Segmentazione: Otsu
+NSD: 0.36533 | Transformazione: HF | Segmentazione: KMeans
+
+Migliori prestazioni per campione ['205']
+
+Dice: 0.71006 | Transformazione: Inv | Segmentazione: KMeans
+NSD: 0.59638 | Transformazione: Log | Segmentazione: KMeans
+
+Migliori prestazioni per campione ['262']
+
+Dice: 0.47969 | Transformazione: HF | Segmentazione: KMeans
+NSD: 0.23233 | Transformazione: HF | Segmentazione: KMeans
+
+Migliori prestazioni per campione ['277']
+
+Dice: 0.81899 | Transformazione: Log | Segmentazione: GMM
+NSD: 0.68468 | Transformazione: Inv | Segmentazione: Otsu
+
+Migliori prestazioni per campione ['307']
+
+Dice: 0.73397 | Transformazione: Log | Segmentazione: Otsu
+NSD: 0.6252 | Transformazione: Log | Segmentazione: Otsu
+
+Migliori prestazioni per campione ['308']
+
+Dice: 0.80219 | Transformazione: Log | Segmentazione: KMeans
+NSD: 0.73669 | Transformazione: Log | Segmentazione: Otsu
+
+Migliori prestazioni per campione ['328']
+
+Dice: 0.85567 | Transformazione: Inv | Segmentazione: Otsu
+NSD: 0.8219 | Transformazione: Log | Segmentazione: Otsu
+
+Migliori prestazioni per campione ['371']
+
+Dice: 0.82302 | Transformazione: Log | Segmentazione: Otsu
+NSD: 0.71355 | Transformazione: Log | Segmentazione: Otsu
+
+Migliori prestazioni per campione ['44']
+
+Dice: 0.66476 | Transformazione: HF | Segmentazione: KMeans
+NSD: 0.572 | Transformazione: HF | Segmentazione: KMeans
+
+Migliori prestazioni per campione ['92']
+
+Dice: 0.43594 | Transformazione: Log | Segmentazione: Otsu
+NSD: 0.54192 | Transformazione: HF | Segmentazione: KMeans
+

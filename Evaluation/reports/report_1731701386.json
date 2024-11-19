@@ -1,0 +1,632 @@
+[
+  {
+    "brain": "139",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.38949435352035927,
+    "nsd": 0.28547191221672596
+  },
+  {
+    "brain": "139",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.39270674006643713,
+    "nsd": 0.36532867946480513
+  },
+  {
+    "brain": "139",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.39350156379480872,
+    "nsd": 0.36359431658403019
+  },
+  {
+    "brain": "139",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.3777240460026659,
+    "nsd": 0.24704994273418249
+  },
+  {
+    "brain": "139",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.39452517442118828,
+    "nsd": 0.27421198422423826
+  },
+  {
+    "brain": "139",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.39705721673890082,
+    "nsd": 0.27931665390179561
+  },
+  {
+    "brain": "139",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.38743135291826025,
+    "nsd": 0.26165713957978853
+  },
+  {
+    "brain": "139",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.27999532709250374,
+    "nsd": 0.1620916787313397
+  },
+  {
+    "brain": "139",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.41505203977325528,
+    "nsd": 0.33439261302314427
+  },
+  {
+    "brain": "205",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.2648196317173705,
+    "nsd": 0.13790228063096815
+  },
+  {
+    "brain": "205",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.622959450884111,
+    "nsd": 0.39688651684233345
+  },
+  {
+    "brain": "205",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.56913921340383056,
+    "nsd": 0.539841010053776
+  },
+  {
+    "brain": "205",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.68780366036311391,
+    "nsd": 0.46562596029746173
+  },
+  {
+    "brain": "205",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.710063266856743,
+    "nsd": 0.57841554247617066
+  },
+  {
+    "brain": "205",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.70960660807905551,
+    "nsd": 0.5795093694385316
+  },
+  {
+    "brain": "205",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.2791553103326021,
+    "nsd": 0.12227108564663883
+  },
+  {
+    "brain": "205",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.62502553394312177,
+    "nsd": 0.59638338077355468
+  },
+  {
+    "brain": "205",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.62244767854866034,
+    "nsd": 0.59406464015379068
+  },
+  {
+    "brain": "262",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.039806343016182522,
+    "nsd": 0.02557854995455499
+  },
+  {
+    "brain": "262",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.47968542157709271,
+    "nsd": 0.23232845404581814
+  },
+  {
+    "brain": "262",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.47037075074458251,
+    "nsd": 0.22609314837280448
+  },
+  {
+    "brain": "262",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.040117548912337188,
+    "nsd": 0.023195443909761158
+  },
+  {
+    "brain": "262",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.10169630048628571,
+    "nsd": 0.049106900777598231
+  },
+  {
+    "brain": "262",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.22077366033415277,
+    "nsd": 0.10244180175534714
+  },
+  {
+    "brain": "262",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.20445907048737544,
+    "nsd": 0.0958802623016469
+  },
+  {
+    "brain": "262",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.31135438949708483,
+    "nsd": 0.1396936167607854
+  },
+  {
+    "brain": "262",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.34006996625248087,
+    "nsd": 0.15328368084420541
+  },
+  {
+    "brain": "277",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.78545692933001177,
+    "nsd": 0.60733655303918355
+  },
+  {
+    "brain": "277",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.4972166983841883,
+    "nsd": 0.51657605259830575
+  },
+  {
+    "brain": "277",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.5108005620952879,
+    "nsd": 0.5385000250162606
+  },
+  {
+    "brain": "277",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.78245777420310714,
+    "nsd": 0.56446810192626951
+  },
+  {
+    "brain": "277",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.74683484892930474,
+    "nsd": 0.6826897605705553
+  },
+  {
+    "brain": "277",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.73975412864646606,
+    "nsd": 0.684679114628416
+  },
+  {
+    "brain": "277",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.81898718790265723,
+    "nsd": 0.60971291646952885
+  },
+  {
+    "brain": "277",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.550217979994701,
+    "nsd": 0.55058316430020282
+  },
+  {
+    "brain": "277",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.52667739452879037,
+    "nsd": 0.51500534508382656
+  },
+  {
+    "brain": "307",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.44748560993581871,
+    "nsd": 0.24484496716053153
+  },
+  {
+    "brain": "307",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.68118042428061332,
+    "nsd": 0.57143687008045541
+  },
+  {
+    "brain": "307",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.67152205404865373,
+    "nsd": 0.53175131022373567
+  },
+  {
+    "brain": "307",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.36764544110037767,
+    "nsd": 0.20301968185494743
+  },
+  {
+    "brain": "307",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.5126670704139209,
+    "nsd": 0.29367966943007873
+  },
+  {
+    "brain": "307",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.53904767987736724,
+    "nsd": 0.31316750983698705
+  },
+  {
+    "brain": "307",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.41414630062051705,
+    "nsd": 0.22959928380982036
+  },
+  {
+    "brain": "307",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.7186259994077584,
+    "nsd": 0.56872674369806675
+  },
+  {
+    "brain": "307",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.73396706947690571,
+    "nsd": 0.62519537355423571
+  },
+  {
+    "brain": "308",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.1457091914237528,
+    "nsd": 0.067313153410883689
+  },
+  {
+    "brain": "308",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.76764853621153772,
+    "nsd": 0.70021062485373275
+  },
+  {
+    "brain": "308",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.767616655395614,
+    "nsd": 0.70030895983522146
+  },
+  {
+    "brain": "308",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.60617269861757683,
+    "nsd": 0.36615061050417713
+  },
+  {
+    "brain": "308",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.2974638858692607,
+    "nsd": 0.1493993163328888
+  },
+  {
+    "brain": "308",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.68646214081344892,
+    "nsd": 0.45619882200833212
+  },
+  {
+    "brain": "308",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.65762717730840115,
+    "nsd": 0.42118770278176693
+  },
+  {
+    "brain": "308",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.80218681661980629,
+    "nsd": 0.72561749838288492
+  },
+  {
+    "brain": "308",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.80107345674694275,
+    "nsd": 0.73668544439251182
+  },
+  {
+    "brain": "328",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.73358300539345989,
+    "nsd": 0.40751523562420805
+  },
+  {
+    "brain": "328",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.78742138364779879,
+    "nsd": 0.782757720180192
+  },
+  {
+    "brain": "328",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.800183640868898,
+    "nsd": 0.771275923115832
+  },
+  {
+    "brain": "328",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.69152359434718347,
+    "nsd": 0.34853063382941757
+  },
+  {
+    "brain": "328",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.85163023301522134,
+    "nsd": 0.679858913844079
+  },
+  {
+    "brain": "328",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.85567324249353582,
+    "nsd": 0.70189024226291308
+  },
+  {
+    "brain": "328",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.73178357509619407,
+    "nsd": 0.3986379543177429
+  },
+  {
+    "brain": "328",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.84841890265400655,
+    "nsd": 0.81541529107965871
+  },
+  {
+    "brain": "328",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.84047331145275528,
+    "nsd": 0.8219040945039543
+  },
+  {
+    "brain": "371",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.5306879786593236,
+    "nsd": 0.30118960199735645
+  },
+  {
+    "brain": "371",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.80215459924068688,
+    "nsd": 0.70313075506445677
+  },
+  {
+    "brain": "371",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.800370052203793,
+    "nsd": 0.68731436750760422
+  },
+  {
+    "brain": "371",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0,
+    "nsd": 0.0073562221910577919
+  },
+  {
+    "brain": "371",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.64274164511799936,
+    "nsd": 0.41086331369276247
+  },
+  {
+    "brain": "371",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.66091022106913144,
+    "nsd": 0.43054499366286436
+  },
+  {
+    "brain": "371",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.52988039322192759,
+    "nsd": 0.30519100685434886
+  },
+  {
+    "brain": "371",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.80630454835734056,
+    "nsd": 0.65829705376126357
+  },
+  {
+    "brain": "371",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.82302342433910236,
+    "nsd": 0.71354574250046576
+  },
+  {
+    "brain": "44",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.40101404387118672,
+    "nsd": 0.22147429802877608
+  },
+  {
+    "brain": "44",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.66476180843531907,
+    "nsd": 0.5719950433705081
+  },
+  {
+    "brain": "44",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.66390103154062385,
+    "nsd": 0.56029300529479675
+  },
+  {
+    "brain": "44",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0.075867530312831624,
+    "nsd": 0.020034069170504945
+  },
+  {
+    "brain": "44",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.20573548148452592,
+    "nsd": 0.11795553737043099
+  },
+  {
+    "brain": "44",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.45619085054273878,
+    "nsd": 0.25892923886554936
+  },
+  {
+    "brain": "44",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.31873837287063944,
+    "nsd": 0.17478669408107114
+  },
+  {
+    "brain": "44",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.64951626204316426,
+    "nsd": 0.4612749651648862
+  },
+  {
+    "brain": "44",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.62562965190587172,
+    "nsd": 0.42388169279983218
+  },
+  {
+    "brain": "92",
+    "transform": "HF",
+    "segmentation": "GMM",
+    "dice": 0.4139861083013015,
+    "nsd": 0.35027930392404771
+  },
+  {
+    "brain": "92",
+    "transform": "HF",
+    "segmentation": "KMeans",
+    "dice": 0.41187699104309911,
+    "nsd": 0.54192411552016106
+  },
+  {
+    "brain": "92",
+    "transform": "HF",
+    "segmentation": "Otsu",
+    "dice": 0.41352247183876661,
+    "nsd": 0.53863049680720987
+  },
+  {
+    "brain": "92",
+    "transform": "Inv",
+    "segmentation": "GMM",
+    "dice": 0,
+    "nsd": 0
+  },
+  {
+    "brain": "92",
+    "transform": "Inv",
+    "segmentation": "KMeans",
+    "dice": 0.28197112931331009,
+    "nsd": 0.20729964651402663
+  },
+  {
+    "brain": "92",
+    "transform": "Inv",
+    "segmentation": "Otsu",
+    "dice": 0.41623148703022,
+    "nsd": 0.3429878219250081
+  },
+  {
+    "brain": "92",
+    "transform": "Log",
+    "segmentation": "GMM",
+    "dice": 0.407770570003111,
+    "nsd": 0.3280976220275344
+  },
+  {
+    "brain": "92",
+    "transform": "Log",
+    "segmentation": "KMeans",
+    "dice": 0.32571172490892619,
+    "nsd": 0.23763883737726679
+  },
+  {
+    "brain": "92",
+    "transform": "Log",
+    "segmentation": "Otsu",
+    "dice": 0.43594287856582936,
+    "nsd": 0.47461044912923922
+  }
+]
