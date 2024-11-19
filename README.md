@@ -4,4 +4,4 @@
 4. Utilizzo del file "Evaluation/evaluate.m" per la generazione di file json completi.
 5. Viene messo a disposizione il file "Evaluation/reports/stats.m" per generare un file txt riassuntivo, in funzione di un file json creato.
 
-[Relazione](https://github.com/PeppeJerry/BRATS-Image-processing/blob/main/Relazione%20del%20progetto.pdf) del progetto disponibile nel progetto.
+[Relazione](https://github.com/PeppeJerry/BRATS-Image-processing/blob/main/Relazione%20del%20progetto.pdf) del progetto disponibile.
